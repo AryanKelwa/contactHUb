@@ -1,0 +1,1 @@
+/update/contact/<int:user_id>
